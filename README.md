@@ -42,6 +42,6 @@
 - ~~Markdown sintaxe~~
 - ~~Gamefication~~
 - Git
-- Planning poker : menusar nosso esforço de trabalho
+- Planning poker : mensurar nosso esforço de trabalho
 
 
