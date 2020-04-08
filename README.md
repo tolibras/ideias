@@ -34,3 +34,14 @@
    - Como eu uso o meu canal de comunicão (protótipos de tela)??
    
 **como administrador do site** o que eu faço?
+
+
+## Coisas para aprender
+
+- ~~Manifesto ágil~~
+- ~~Markdown sintaxe~~
+- ~~Gamefication~~
+- Git
+- Planning poker : menusar nosso esforço de trabalho
+
+
