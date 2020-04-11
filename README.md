@@ -12,7 +12,14 @@
 ## Clientes iniciais
 
 - Maria de Fátima Feitosa
-- ...
+- Caio Vinicius de Azevedo
+- Gabriel dos Santos Moura
+- Leonardo da Silva Monteiro
+- Gilton Sampaio de Souza Junior
+- Joel Victor Barbosa Soares
+- Leticia Fernandes Gomes
+- Juliana de Albuquerque Gonçalves Saraiva
+- Larissa Fernandes Gomes
 
 ## Problema a ser resolvido
 
