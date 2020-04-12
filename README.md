@@ -38,9 +38,8 @@
 1. Como **conteudista** gostaria de **criar conteúdo educacional extra** para __ajudar aos alunos que estão estudando LIBRAS__.
    - Como eu crio (protótipos de tela)??
 1. Como **conteudista** gostaria de **ter um canal de comunicação com a administração do site** para __ajudar na revisão de conteúdo extra__.
-   - Como eu uso o meu canal de comunicão (protótipos de tela)??
-   
-**como administrador do site** o que eu faço?
+   - Como eu uso o meu canal de comunicação (protótipos de tela)??
+1. Como **administrador** gostaria de **revisar o conteúdo submetido pelo conteudista** para __implementar esse conteúdo no site__.
 
 
 ## Coisas para aprender
