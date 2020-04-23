@@ -13,7 +13,6 @@
 
 - Maria de Fátima Feitosa
 - Caio Vinicius de Azevedo
-- Gabriel dos Santos Moura
 - Leonardo da Silva Monteiro
 - Gilton Sampaio de Souza Junior
 - Joel Victor Barbosa Soares
