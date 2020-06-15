@@ -6,7 +6,7 @@
 - Arthur
 - Christian
 - Danilo
-- João Victor
+- João Victor joaovictors2010 at gmail dot com
 - [Leonardo Minora](https://github.com/leonardo-minora) leonaro.minora at gmail dot com
 - Wellington 
 
