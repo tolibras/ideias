@@ -7,7 +7,8 @@
 - Christian
 - Danilo
 - João Victor
-- [Leonardo Minora](https://github.com/leonardo-minora)
+- [Leonardo Minora](https://github.com/leonardo-minora) leonaro.minora at gmail dot com
+- Wellington 
 
 ## Clientes iniciais
 
