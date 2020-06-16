@@ -50,4 +50,7 @@
 - Git
 - Planning poker : mensurar nosso esforço de trabalho
 
-
+## Documentos
+   1. ~~Documento de visão
+   1. ~~Mapa do site
+   
