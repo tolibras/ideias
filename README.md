@@ -1,4 +1,4 @@
-# Iideias do projeto ToLIBRAS
+# Ideias do projeto ToLIBRAS
 
 ## Equipe
 
