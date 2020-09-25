@@ -52,5 +52,6 @@
 
 ## Documentos
    1. ~~Documento de visão~~
-   1. ~~Mapa do site~~
+   2. ~~Mapa do site~~
+   3. Cronograma
    
