@@ -1,4 +1,4 @@
-# ideias do projeto ToLIBRAS
+# Ideias do projeto ToLIBRAS
 
 ## Equipe
 
@@ -22,7 +22,7 @@
 
 ## Problema a ser resolvido
 
-**Aprendizado de Libras via intenert**
+**Aprendizado de Libras via internet**
 
 ## Product Backlog
 
@@ -50,6 +50,9 @@
 - Planning poker : mensurar nosso esforço de trabalho
 
 ## Documentos
-   1. ~~Documento de visão~~
-   1. ~~Mapa do site~~
+   1. Documento de visão
+   1. Mapa do site
+   1. Documento de Requisitos
+   1. Casos de Uso
+   1. Casos de Uso CRUD
    
