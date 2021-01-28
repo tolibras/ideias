@@ -1,11 +1,12 @@
 # Documentos
-* Mapa do site
+* [Mapa do site](#mapa-do-site)
 * [Documento de visão](#documento-de-visão)
 * [Documento de requisitos](#documento-de-requisitos)
 # Mapa do site
+
 ![Mapa_site](mapa_do_site_tolibras.jpeg)
+
 # Documento de visão
-* **Projeto:** ToLIBRAS
 
 * **Descrição do problema:**
 
@@ -54,3 +55,42 @@ atividades (separadas por categorias) referentes a temas essenciais no aprendiza
 por concluir tarefas e punições por errá-las, para motivar e facilitar o aprendizado aos usuários. 
 
 # Documento de requisitos
+
+   **1) Visão geral de produto:**
+
+   O ToLIBRAS é uma plataforma online e gratuita que tem como principal
+   função ensinar o usuário a aprender LIBRAS, por meio de atividades (separadas por categorias)
+   referentes a temas essenciais no aprendizado de um novo idioma. A metodologia utilizada pelo site
+   seria a Gamificação, utilizando mecanismos e características de jogos, tendo como recompensas
+   por concluir tarefas e punições por errá-las, para motivar e facilitar o aprendizado aos usuários.
+
+   **2) Requisitos funcionais**
+
+   |     Código    |     Nome       |     Descrição      |     Categoria (Evidente/Oculto)       |
+   |:-------------:|:-------------:|:-------------:|:-------------:|
+   | RF1 | Editar perfil. |    Editar informações pessoais do perfil.    |  Evidente   |
+   | RF2 | Fazer login/cadastro.   |    Realizar cadastro/acessar perfil logado.    |  Evidente   |
+   | RF3 | Adicionar amigos.    |   Adicionar amigos para acompanhar seus progressos.   |  Evidente   |
+   | RF4 | Realizar os exercícios.      |    Realizar os exercícios disponibilizados pelo ToLIBRAS.    |  Evidente   |
+   
+   **3) Requisitos não-funcionais**
+   
+   |     Código    |     Nome       |     Descrição      |     Categoria      |     Classificação      |
+   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+   | RNF1 | Protocolo HTTPS. |    Protocolo seguido nas páginas web.    |  Segurança   |  Obrigatório   |
+   | RNF2 | Animações Javascript.   |    Animações para dinamizar o ambiente da plataforma.    |  Desenvolvimento   |  Desejável   |
+   | RNF3 | Criptografar informações pessoais.    |   Proteger informações pessoais.   |  Segurança   |  Obrigatório   |
+   | RNF4 | Linguagem ASP.NET   |    Todo o sistema deve ser feito com a linguagem ASP.   |  Implementação   |  Obrigatório   |
+   | RNF5 | Somente para navegadores   |    O site deve funcionar, preferencialmente, em um navegador.   |  Portabilidade   |  Obrigatório   |
+   | RNF6 | Backup do sistema   |    O sistema deverá gerar um backup a cada 24 horas.   |  Segurança   |  Desejável   |
+   | RNF7 | Model, View, Controller   |    O site terá como padrão o modelo MVC em suas páginas.   |  Padrão   |  Obrigatório   |
+   | RNF8 | Design responsivo   |    O site se adaptará em qualquer dispositivo como PC, Celular, Tablet.   |  Usabilidade   |  Obrigatório   |
+   
+   **4) Tabela de referência de requisitos FUNCIONAIS x requisitos NÃO FUNCIONAIS**
+   
+   |     /    |     RNF1     |     RNF2      |     RNF3     |     RNF4     |     RNF5     |     RNF6     |     RNF7     |     RNF8     |
+   |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+   | RF1 | X | X | X | X | X | X | X | X |
+   | RF2 | X |  | X | X | X |  | X | X |
+   | RF3 | X | X |  | X | X | X | X | X |
+   | RF4 | X | X |  | X | X | X | X | X |
