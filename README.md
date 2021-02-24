@@ -54,5 +54,5 @@
    1. Mapa do site
    1. Documento de Requisitos
    1. Casos de Uso
-   1. Casos de Uso CRUD
+   1. Descrição do Casos de Uso
    
