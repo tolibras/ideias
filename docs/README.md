@@ -1,10 +1,15 @@
 # Documentos
 * [Mapa do site](#mapa-do-site)
+* [Casos de uso](#casos-de-uso)
 * [Documento de visão](#documento-de-visão)
 * [Documento de requisitos](#documento-de-requisitos)
 # Mapa do site
 
 ![Mapa_site](mapa_do_site_tolibras.jpeg)
+
+# Casos de uso
+
+![Casos de uso](casos de uso.jpeg)
 
 # Documento de visão
 
