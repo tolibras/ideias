@@ -1,6 +1,7 @@
 # Documentos
 * [Mapa do site](#mapa-do-site)
 * [Casos de uso](#casos-de-uso)
+* [Descrição de Casos de uso](#descrição-do-casos-de-uso)
 * [Documento de visão](#documento-de-visão)
 * [Documento de requisitos](#documento-de-requisitos)
 # Mapa do site
