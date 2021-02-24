@@ -9,7 +9,7 @@
 
 # Casos de uso
 
-![Casos de uso](casos de uso.jpeg)
+![Casos de uso](casos_de_uso.jpeg)
 
 # Documento de visão
 
