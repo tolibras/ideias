@@ -17,6 +17,7 @@
 # Descrição do casos de uso (lista)
 - Login
 - Realizar tarefa
+- Montar Grupo
 
 # Documento de visão
 
