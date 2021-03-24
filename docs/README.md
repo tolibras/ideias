@@ -34,7 +34,8 @@
 
 |   Nome      |   Descrição    |   Responsabilidade   | 
 | ------------- |:-------------:|:-------------:|
-| Aluno      | Usuário que poderá acessar o conteúdo de aprendizagem do ToLIBRAS, para que o mesmo estude LIBRAS.  |   O Aluno será, em suma, o usuário principal do site, visto que a criação do mesmo visa em ajudar alunos que têm interesse em aprender LIBRAS.    |
+| User      | Usuário que poderá acessar o conteúdo de aprendizagem do ToLIBRAS, para que o mesmo estude LIBRAS.  |   O User será, em suma, o usuário principal do site, visto que a criação do mesmo visa em ajudar pessoas que têm interesse em aprender LIBRAS.    |
+| Administrador      | Um user que criou um grupo de users para competir entre eles as tarefas que o próprio definiu.|   Definir as tarefas para cada membro para competir.    |
 
 * **Descrição do ambiente dos usuários:**
 
@@ -55,7 +56,7 @@ diversas informações a respeito da Língua Brasileira de Sinais. É um site co
 ouvintes na informação quanto à surdez ou deficiência auditiva. Entretanto, o InLIBRAS é limitado na questão de ensinar aos ouvintes sobre
 LIBRAS, tendo apenas dois ambientes apresentados (parque e cozinha).
     
-    Outros que também ideias semelhantes seriam o StorySign, que ensina uma criança com problema auditivo a ler histórias infantis,
+   Outros que também ideias semelhantes seriam o StorySign, que ensina uma criança com problema auditivo a ler histórias infantis,
 o VLIBRAS, que traduz, por meio de um avatar, um texto selecionado de português para LIBRAS, e, por último, o Hand Talker, que auxilia pessoas
 que não sabem LIBRAS através de videoaulas sobre um assunto especifico. 
 
@@ -64,7 +65,7 @@ que não sabem LIBRAS através de videoaulas sobre um assunto especifico.
      O ToLIBRAS é uma plataforma online e gratuita que tem como principal função ensinar o usuário a aprender LIBRAS, por meio de
 atividades (separadas por categorias) referentes a temas essenciais no aprendizado de um novo idioma.
      
-     A metodologia utilizada pelo site seria a Gamificação, utilizando mecanismos e características de jogos, tendo como recompensas
+   A metodologia utilizada pelo site seria a Gamificação, utilizando mecanismos e características de jogos, tendo como recompensas
 por concluir tarefas e punições por errá-las, para motivar e facilitar o aprendizado aos usuários. 
 
 # Documento de requisitos
