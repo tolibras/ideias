@@ -35,7 +35,7 @@
 |   Nome      |   Descrição    |   Responsabilidade   | 
 | ------------- |:-------------:|:-------------:|
 | User      | Usuário que poderá acessar o conteúdo de aprendizagem do ToLIBRAS, para que o mesmo estude LIBRAS.  |   O User será, em suma, o usuário principal do site, visto que a criação do mesmo visa em ajudar pessoas que têm interesse em aprender LIBRAS.    |
-| Administrador      | Um user que criou um grupo de users para competir entre eles as tarefas que o próprio definiu.|   Definir as tarefas para cada membro para competir.    |
+| Administrador      | Um user que criou um grupo de users para competir entre eles as tarefas que o próprio definiu.|   Definir as tarefas para cada membro competir.    |
 
 * **Descrição do ambiente dos usuários:**
 
