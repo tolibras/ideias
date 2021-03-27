@@ -26,11 +26,5 @@
       2.1. [OUT] Se o Usuário interagir com alguma página, o banco de dados da página atualizará.
    3. [OUT] Caso a opção "Manter-se logado" não esteja habilitada, o Usuário sairá da sua conta após fechá-la.
 
-#### **5.2 - <Nome do fluxo alternativo 1>**
-   Não há fluxos alternativos.
-   
-#### **5.3 - <Nome do fluxo de exceção 1>**
-   Não há fluxos de exceções.
-
 ### **6 - Protótipo(s) de interface do casos de uso**
 
