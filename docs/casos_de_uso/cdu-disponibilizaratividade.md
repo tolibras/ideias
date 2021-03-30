@@ -1,4 +1,4 @@
-# LOGIN - Descrição do casos de uso
+# DisponibilizarAtiv - Descrição do casos de uso
 
 |    Data    | Versão |           Descrição           | Autor |
 | :--------: | :----: | :---------------------------: | :---: |
@@ -11,13 +11,16 @@
 ## **2 - Atores**
    - _Administrador_
 
+## **3 - Pré-Condições
+    - _Administrador_ identificado no aplicativo.     
+
 ## **4 - Pós-condições**
-   - _Administrador_ identificado no aplicativo.
+   - Função disponível somente para o _Administrador_.
 
 ## **5 - Fluxo de eventos**
 
 ### **5.1 - Fluxo básico**
-   1. **[IN]** O caso de uso começa quando o Usuário acessa a página de definir uma atividade.
+   1. **[IN]** O caso de uso começa quando o _Administrador_ acessa a página de definir uma atividade.
    2. **[OUT]** O aplicativo apresenta umas informações para serem preenchidas.
    3. O aplicativo cria a atividade.
    4. **[OUT]** O aplicativo fornece a opção de disponibilizar a atividade.

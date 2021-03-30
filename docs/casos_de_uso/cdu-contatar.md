@@ -1,4 +1,4 @@
-# LOGIN - Descrição do casos de uso
+# Contatar - Descrição do casos de uso
 
 |    Data    | Versão |           Descrição           | Autor |
 | :--------: | :----: | :---------------------------: | :---: |
@@ -6,20 +6,23 @@
 
 ## **1 - Resumo**
 
-   Permite ao _Usuário_ contatar os Criadores do TOLibras, enviando uma mensagem.
+   Permite contatar os Criadores do TOLibras, enviando uma mensagem.
 
 ## **2 - Atores**
-   - _Usuário_
+   - _Usuário_ e _Administrador_.
+
+## **3 - Pré-Condições
+    - _Administrador_  e _Usuário_ identificados no aplicativo.  
 
 ## **4 - Pós-condições**
-   - _Usuário_ tem que estar em uma página.
+   - Função disponível somente para o _Administrador_ e _Usuário_.
 
 ## **5 - Fluxo de eventos**
 
 ### **5.1 - Fluxo básico**
-   1. **[IN]** O caso de uso começa quando o Usuário está em alguma página.
+   1. **[IN]** O caso de uso começa quando o Ator está em alguma página.
    2. **[OUT]** O aplicativo apresenta a tela de identificação.
-   3. **[IN]** O _Usuário_ digita login e senha e clica em identificar-se.
+   3. **[IN]** O _Ator_ digita login e senha e clica em identificar-se.
    4. O aplicativo verifica se o login e senha estão corretos.
    5. **[OUT]** O aplicativo abre a tela inicial do toLibras. 
 

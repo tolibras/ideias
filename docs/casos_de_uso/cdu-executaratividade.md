@@ -1,4 +1,4 @@
-# LOGIN - Descrição do casos de uso
+# ExecutarAtividade - Descrição do casos de uso
 
 |    Data    | Versão |           Descrição           | Autor |
 | :--------: | :----: | :---------------------------: | :---: |
@@ -6,22 +6,25 @@
 
 ## **1 - Resumo**
 
-   Permite ao _Usuário_ realizar uma atividade.
+   Permite realizar uma atividade.
 
 ## **2 - Atores**
-   - _Usuário_
+   - _Usuário_ e _Administrador_.
+
+## **3 - Pré-Condições
+    - _Usuário_ e _Administrador_ identificados no aplicativo.  
 
 ## **4 - Pós-condições**
-   - _Usuário_ identificado no aplicativo.
+   - Função disponível somente para _Usuário_ e _Administrador_.
 
 ## **5 - Fluxo de eventos**
 
 ### **5.1 - Fluxo básico**
-   1. **[IN]** O caso de uso começa quando o Usuário acessa a página do baralho.
+   1. **[IN]** O caso de uso começa quando o _Ator_ acessa a página do baralho.
    2. **[OUT]** O aplicativo apresenta a tela dos temas das atividades.
-   3. **[IN]** O _Usuário_ seleciona qual categoria das atividades quer.
+   3. **[IN]** O _Ator_ seleciona qual categoria das atividades quer.
    4. O aplicativo verifica seu progresso da atividade e continua no mesmo.
-   5. **[OUT]** O _Usuário_ finaliza sua atividade e deixa-la como "concluida".
+   5. **[OUT]** O _Ator_ finaliza sua atividade e deixa-la como "concluida".
 
 
 ### **6 - Protótipo(s) de interface do casos de uso**

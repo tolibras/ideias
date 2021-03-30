@@ -1,4 +1,4 @@
-# LOGIN - Descrição do casos de uso
+# RemoverAtividade - Descrição do casos de uso
 
 |    Data    | Versão |           Descrição           | Autor |
 | :--------: | :----: | :---------------------------: | :---: |
@@ -9,7 +9,7 @@
    Permite ao _Administrador_ remover uma atividade.
 
 ## **2 - Atores**
-   - _Administrador_
+   - _Administrador_.
 
 ## **4 - Pós-condições**
    - _Administrador_ identificado no aplicativo.
@@ -17,7 +17,7 @@
 ## **5 - Fluxo de eventos**
 
 ### **5.1 - Fluxo básico**
-   1. **[IN]** O caso de uso começa quando o Usuário acessa a página de definir uma atividade.
+   1. **[IN]** O caso de uso começa quando o _Administrador_ acessa a página de definir uma atividade.
    2. **[OUT]** O aplicativo apresenta umas informações para serem preenchidas.
    3. O aplicativo cria a atividade.
    4. **[OUT]** O aplicativo fornece a opção de remover a atividade.
