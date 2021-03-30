@@ -22,8 +22,9 @@
 ### **5.1 - Fluxo básico**
    1. **[IN]** O caso de uso começa quando o _Administrador_ acessa a página de definir uma atividade.
    2. **[OUT]** O aplicativo apresenta umas informações para serem preenchidas.
-   3. O aplicativo cria a atividade.
-   4. **[OUT]** O aplicativo fornece a opção de alterar as informações anteriormente preenchidas.
+   3. **[IN]** O _Administrador_ editará as informações, adicionando ou alterando tais dados.
+   4. O aplicativo cria a atividade.
+   5. **[OUT]** O aplicativo fornece a opção de alterar as informações anteriormente preenchidas.
 
 ### **5.2 - Fluxo alternativos**
 
