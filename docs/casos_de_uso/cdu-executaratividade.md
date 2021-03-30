@@ -12,7 +12,7 @@
    - _Usuário_ e _Administrador_.
 
 ## **3 - Pré-Condições
-    - _Usuário_ e _Administrador_ identificados no aplicativo.  
+    - Usuário e Administrador identificados no aplicativo.  
 
 ## **4 - Pós-condições**
    - Função disponível somente para _Usuário_ e _Administrador_.

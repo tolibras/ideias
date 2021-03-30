@@ -12,7 +12,7 @@
    - _Usuário_ e _Administrador_
 
 ## **4 - Pós-condições**
-   - _Usuário_ e _Administrador_ identificados no aplicativo.
+   - Usuário e Administrador identificados no aplicativo.
 
 ## **5 - Fluxo de eventos**
 

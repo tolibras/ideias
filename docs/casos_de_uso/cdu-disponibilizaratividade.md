@@ -12,7 +12,7 @@
    - _Administrador_
 
 ## **3 - Pré-Condições
-    - _Administrador_ identificado no aplicativo.     
+    - Administrador identificado no aplicativo.     
 
 ## **4 - Pós-condições**
    - Função disponível somente para o _Administrador_.

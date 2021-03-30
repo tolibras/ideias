@@ -12,7 +12,7 @@
    - _Usuário_ e _Administrador_.
    
 ### **3 - Pre-condições**
-   - _Administrador_ e _Usuário_ identificados no aplicativo. 
+   - Administrador e Usuário identificados no aplicativo. 
 
 ### **4 - Pós-condições**
    Caso haja interação em alguma página, dentre todas, será atualizado no banco de dados da determinada página.

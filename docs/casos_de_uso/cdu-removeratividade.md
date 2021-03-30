@@ -11,8 +11,11 @@
 ## **2 - Atores**
    - _Administrador_.
 
+## **3 - Pré-Condições
+    - Administrador e Usuário identificados no aplicativo.    
+
 ## **4 - Pós-condições**
-   - _Administrador_ identificado no aplicativo.
+   - Função disponível somente para _Administrador_.
 
 ## **5 - Fluxo de eventos**
 
