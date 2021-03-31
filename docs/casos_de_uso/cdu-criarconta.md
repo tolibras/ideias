@@ -38,4 +38,5 @@
 ### **6 - Protótipo(s) de interface do casos de uso**
 
 1. Cadastro
-![Frame 56](https://user-images.githubusercontent.com/54066949/113217761-c1b98080-9254-11eb-86e3-efb4ec547cf2.png)
+![Frame 55](https://user-images.githubusercontent.com/54066949/113217901-fa595a00-9254-11eb-81b3-25adf192d770.png)
+
