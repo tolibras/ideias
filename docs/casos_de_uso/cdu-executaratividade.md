@@ -30,4 +30,9 @@
 ### **6 - Protótipo(s) de interface do casos de uso**
 
 1. Atividade
+![Frame 17](https://user-images.githubusercontent.com/54066949/113218367-cb8fb380-9255-11eb-902e-b5f229124985.png)
 2. atividade2
+![Frame 12](https://user-images.githubusercontent.com/54066949/113218414-e2360a80-9255-11eb-9fde-e1ca6c17a8da.png)
+3. Acerto/Erro
+![Frame 10](https://user-images.githubusercontent.com/54066949/113218473-f37f1700-9255-11eb-9b78-242f1f1ed3df.png)
+![Frame 11](https://user-images.githubusercontent.com/54066949/113218475-f4b04400-9255-11eb-896c-f0b0e6365e6d.png)
