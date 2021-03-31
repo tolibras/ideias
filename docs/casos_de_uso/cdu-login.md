@@ -52,4 +52,6 @@
 ### **6 - Protótipo(s) de interface do casos de uso**
 
 1. login
-2. esqueci login/senha
+![Frame 3](https://user-images.githubusercontent.com/54066949/113218562-1c9fa780-9256-11eb-9402-cf117c6928c1.png)
+2.esqueci login/senha
+- não feita ainda no figma.
