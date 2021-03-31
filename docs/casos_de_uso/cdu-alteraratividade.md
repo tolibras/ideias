@@ -44,3 +44,5 @@
 ### **6 - Protótipo(s) de interface do casos de uso**
 
 1. opções dos botões da atividade do _Administrador_.
+![Frame 60](https://user-images.githubusercontent.com/54066949/113217493-68e9e800-9254-11eb-95b9-faf2d3aa7dd1.png)
+
