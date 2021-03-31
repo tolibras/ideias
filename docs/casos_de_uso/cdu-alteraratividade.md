@@ -3,6 +3,7 @@
 |    Data    | Versão |           Descrição           | Autor |
 | :--------: | :----: | :---------------------------: | :---: |
 | 27/03/2021 |  1.0   | Primeira versão do documento. |  All  |
+| 31/03/2021 |  1.1   | Revisado Pré, Pós e Fluxo básico | Minora |
 
 ## **1 - Resumo**
 
@@ -12,19 +13,20 @@
    - _Administrador_.
 
 ## **3 - Pré-Condições
-    - Administrador identificado no aplicativo.  
+    - Administrador identificado no aplicativo. CDU Login.
+    - Administrador deve ter selecionado uma Atividade. CDU ListarAtividade ou FiltrarAtividade.
 
 ## **4 - Pós-condições**
-   - Função disponível somente para o _Administrador_.
+   - Atividade modificada com sucesso.
 
 ## **5 - Fluxo de eventos**
 
 ### **5.1 - Fluxo básico**
-   1. **[IN]** O caso de uso começa quando o _Administrador_ acessa a página de definir uma atividade.
-   2. **[OUT]** O aplicativo apresenta umas informações para serem preenchidas.
-   3. **[IN]** O _Administrador_ editará as informações, adicionando ou alterando tais dados.
-   4. O aplicativo cria a atividade.
-   5. **[OUT]** O aplicativo fornece a opção de alterar as informações anteriormente preenchidas.
+   1. **[IN]** O caso de uso começa quando o _Administrador_ seleciona uma atividade para editar.
+   2. **[OUT]** O aplicativo apresenta as informações da atividade.
+   3. **[IN]** O _Administrador_ modificará as informações da atividade.
+   4. **[OUT]** O aplicativo registra a modificação das informações da atividade.
+   5. **[OUT]** O aplicativo informa ao Administrador que foi registrado as modificações da atividade.
 
 ### **5.2 - Fluxo alternativos**
 
